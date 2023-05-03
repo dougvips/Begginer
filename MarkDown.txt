@@ -1,0 +1,19 @@
+markdown -  é uma linguagem semelhante ao html.
+arquivo README.md é um arquivo markdown
+.md é o nome do arquivos markdown
+A linguagem markdown pode ser utilizado nas ISSUES, COMMITS, PULL REQUESTS e no arquivo README.md
+
+Teste Markdown
+ negrito são **palavra ** ou __palavra__
+
+itálico *palavra* ou _palavra_ 
+
+riscado é ~~palavra~~
+
+Título em três níveis
+
+#Título
+##Título
+###Título
+
+linha abaixo são --- ou ***

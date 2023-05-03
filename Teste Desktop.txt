@@ -1,4 +1,4 @@
-html não é linguagem de programação. é uma linguagem de desenvolvimento
+html não é linguagem de programação, é uma linguagem de marcação.
 markdown -  é uma linguagem semelhante ao html.
 arquivo README.md é um arquivo markdown
 .md é o nome do arquivos markdown
